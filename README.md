@@ -1,6 +1,6 @@
 # Dashboard
 
-A fully featured Dashboard wrote in javascript using React and Feathers.
+A fully featured Dashboard written in javascript using React and Feathers.
 
 Epitech school project.
 
